@@ -5,6 +5,7 @@ channels:
   - conda-forge
 dependencies:
   - python
+  - tornado<6
   - numpy
   - matplotlib
   - pandas
