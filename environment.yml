@@ -11,4 +11,3 @@ dependencies:
   - pandas
   - bokeh
   - rise
-  - nteract_on_jupyter
